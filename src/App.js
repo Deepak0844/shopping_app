@@ -15,6 +15,7 @@ import { styled } from '@mui/material/styles';
 import Badge from '@mui/material/Badge';
 import ShoppingCartIcon from '@mui/icons-material/ShoppingCart';
 import IconButton from '@mui/material/IconButton';
+import { Cart } from './Cart';
 
 export default function App() {
 const history = useHistory();
@@ -87,15 +88,3 @@ const StyledBadge = styled(Badge)(({ theme }) => ({
 );
 }
 
-function Cart({deleteBtn,name,price,image,id}){
-return(
-  <section>
-<div className="cartItem">
-<img src={image} alt={name}></img>
-<p>{name}</p>
-<p>₹ {price}</p>
-  {deleteBtn}
-</div>
-  </section>
-)
-}
