@@ -3,7 +3,6 @@ import Button from '@mui/material/Button';
 import { useState } from 'react';
 import * as React from 'react';
 import { useParams } from "react-router-dom";
-import ArrowBackIcon from '@mui/icons-material/ArrowBack';
 import { useEffect } from 'react';
 import EditIcon from '@mui/icons-material/Edit';
 
@@ -19,8 +18,6 @@ export function Details({cart,setCart}){
   return product ? <CartList cart={cart} setCart={setCart} product={product} /> : "";
 
 }
-
-
 
 function CartList({cart,setCart,product}) {
   const history = useHistory();
