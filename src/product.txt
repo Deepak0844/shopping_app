@@ -1,0 +1,102 @@
+[
+ {
+  "brand": "Apple",
+  "name": "Apple iPhone 12",
+  "image": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-12-3.jpg",
+  "price": "70,999",
+  "id": "1",
+  "rating": 4.7,
+  "specification": "64GB/128GB/256GB storage  no card slot",
+  "released": "Released 2020, October 23",
+  "body": "164g, 7.4mm thickness",
+  "software": "IOS 14.1, up to iOS 15.1"
+ },
+ {
+  "brand": "OnePlus",
+  "name": "OnePlus 9 Pro 5G",
+  "image": "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-9-pro-1.jpg",
+  "price": "69,999",
+  "id": "2",
+  "rating": 4.2,
+  "specification": "128GB/256GB storage, no card slot",
+  "released": "Released 2021, March 30",
+  "body": "19g, 8.7mm thickness",
+  "software": "Android 11, OxygenOS 11.2.7.7"
+ },
+ {
+  "brand": "Samsung",
+  "name": "Samsung Galaxy Z Fold 2",
+  "image": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-z-fold2-5g-06.jpg",
+  "price": "1,12,400",
+  "id": "3",
+  "rating": 3,
+  "specification": "256GB/512GB storage, no card slot",
+  "released": "Released 2020, September 18",
+  "body": "22g, 6.9mm thickness",
+  "software": "Android 10, up to Android 11, One UI 3.1.1"
+ },
+ {
+  "brand": "Apple",
+  "name": "Apple iPhone 12 Pro",
+  "image": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-12-pro-2.jpg",
+  "price": "97,900",
+  "id": "4",
+  "rating": 4.5,
+  "specification":"128GB/256GB/512GB storage, no card slot",
+  "released": "Released 2020 october 23",
+  "body": "189g, 7.4mm thickness",
+  "software": "IOS 14.1, up to iOS 15.1"
+ }
+]
+
+
+[
+ {
+  "brand": "Apple",
+  "name": "Apple iPhone 12",
+  "image": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-12-3.jpg",
+  "price": "70,999",
+  "id": "1",
+  "rating": 4.7,
+  "specification": "64GB/128GB/256GB storage  no card slot",
+  "released": "Released 2020, October 23",
+  "body": "164g, 7.4mm thickness",
+  "software": "IOS 14.1, up to iOS 15.1"
+ },
+ {
+  "brand": "OnePlus",
+  "name": "OnePlus 9 Pro 5G",
+  "image": "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-9-pro-1.jpg",
+  "price": "69,999",
+  "id": "2",
+  "rating": 4.2,
+  "specification": 128,
+  "released": "Released 2021, March 30",
+  "body": "19g, 8.7mm thickness",
+  "software": "Android 11, OxygenOS 11.2.7.7"
+ },
+ {
+  "brand": "Samsung",
+  "name": "Samsung Galaxy Z Fold 2",
+  "image": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-z-fold2-5g-06.jpg",
+  "price": "1,12,400",
+  "id": "3",
+  "rating": 3,
+  "specification": 128,
+  "released": "Released 2020, September 18",
+  "body": "22g, 6.9mm thickness",
+  "software": "Android 10, up to Android 11, One UI 3.1.1"
+ },
+ {
+  "brand": "Apple",
+  "name": "Apple iPhone 12 Pro",
+  "image": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-12-pro-2.jpg",
+  "price": "97,900",
+  "id": "4",
+  "rating": 4.5,
+  "specification": 128,
+  "released": "Released 2020 october 23",
+  "body": "189g, 7.4mm thickness",
+  "software": "IOS 14.1, up to iOS 15.1"
+ }
+]
